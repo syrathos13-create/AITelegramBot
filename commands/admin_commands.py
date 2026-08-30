@@ -3,7 +3,7 @@ from core.prompt_log import log_prompt_change, get_recent_log
 from core.i18n import t
 from core.bot_settings import get_setting, set_setting
 from core.help_ui import build_help_keyboard
-from config import ADMIN_ID
+from config import ADMIN_ID, GEMINI_API_KEY, TELEGRAM_TOKEN
 
 ADMIN_HELP_PAGES = {
     "en": [
@@ -22,6 +22,7 @@ ADMIN_HELP_PAGES = {
 /bot_on — turn the bot back on
 
 /bot_status — check if the bot is on or off""",
+
 
         """👑 Admin — 🔎 User Lookup
 
@@ -196,6 +197,20 @@ async def handle_admin_command(update, context, subcmd: str, arg_text: str):
     elif subcmd == "status":
         status_key = "admin_status_on" if get_setting("bot_enabled") else "admin_status_off"
         await update.message.reply_text(t(status_key, lang))
+
+        elif subcmd == "checkkey":
+        def mask(value):
+            if not value:
+                return "❌ NOT SET (empty or None)"
+            if len(value) < 8:
+                return f"⚠️ Too short ({len(value)} chars): {value}"
+            return f"{value[:4]}...{value[-4:]} (length: {len(value)})"
+
+        msg = (
+            f"🔑 GEMINI_API_KEY: {mask(GEMINI_API_KEY)}\n"
+            f"🔑 TELEGRAM_TOKEN: {mask(TELEGRAM_TOKEN)}"
+        )
+        await update.message.reply_text(msg)
 
     elif subcmd == "whois":
         daily_limit = get_setting("whois_daily_limit")

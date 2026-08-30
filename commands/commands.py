@@ -47,6 +47,7 @@ ADMIN_COMMAND_MAP = {
     "add_admin": "addadmin",
     "remove_admin": "removeadmin",
     "list_admins": "listadmins",
+    "check_key": "checkkey",
 }
 
 HELP_PAGES = {
