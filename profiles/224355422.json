@@ -1,0 +1,40 @@
+{
+  "message_date": "2026-08-10",
+  "message_count": 7,
+  "language": "uk",
+  "name": "Наталья",
+  "unlimited": true,
+  "saved_media": [
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDo2qMNZIvlqlbY3L4vLHqew-Q24SqAAKYH2sbatxpSPHBCg8HwfeYAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDpGqMNZKHQ9HAunEUHNaAkZ6CvsNOAAKZH2sbatxpSKJCPvyB7zGfAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDpWqMNZL_3RWTjsu6uyR7SZXsapH_AAIBI2sbHWNpSDdHuaIM7I8eAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDo2qMNZIvlqlbY3L4vLHqew-Q24SqAAKYH2sbatxpSPHBCg8HwfeYAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDpGqMNZKHQ9HAunEUHNaAkZ6CvsNOAAKZH2sbatxpSKJCPvyB7zGfAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDpWqMNZL_3RWTjsu6uyR7SZXsapH_AAIBI2sbHWNpSDdHuaIM7I8eAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    }
+  ],
+  "last_active": "2026-08-24"
+}

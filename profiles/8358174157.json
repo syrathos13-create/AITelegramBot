@@ -1,0 +1,36 @@
+{
+  "language": "ar",
+  "mood": "determined",
+  "emotional_state": "frustrated",
+  "preference_partner_style": "cute",
+  "name": "Salma",
+  "nickname": "Isis",
+  "nickname_meaning": "goddess of the sun",
+  "age": 15,
+  "personality_trait": "introverted",
+  "plans": "travel and gain more freedom",
+  "relationship_status": "single",
+  "pet": "cats",
+  "self_description": "المشاغبة قليلا و الصغيرة الكيوتتت",
+  "recent_event": "Ivan left her on read",
+  "location": "room",
+  "favorite_thing": "sun",
+  "climate_preference": "warm",
+  "recent_activity": "sending angry cat emojis expressing frustration about Ivan",
+  "slang_used": "Egyptian Arabic, Egyptian slang, 'يسطا'",
+  "message_date": "2026-08-26",
+  "message_count": 5,
+  "last_active": "2026-08-26",
+  "saved_media": [
+    {
+      "type": "voice",
+      "value": "AwACAgQAAxkBAAIDu2qMW6rbuFVAq6azQJeOeXUZwqs8AALSIAACCE1oUDnLFgbBInwYPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "voice",
+      "value": "AwACAgQAAxkBAAIEcWqPIS6B8epL1HQ2JLvjDw2-OkelAAKsHQAC0g6AUFNLXsSSJPrYPQQ",
+      "date": "2026-08-26"
+    }
+  ]
+}

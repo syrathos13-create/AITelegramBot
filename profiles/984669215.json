@@ -1,0 +1,174 @@
+{
+  "name": "Иван",
+  "profession": "программист",
+  "status": "учится на программиста и старается им быть",
+  "language": "украинский",
+  "favorite_game": "Rust",
+  "has_female_friend": true,
+  "programming_skills": "reads code",
+  "knows_details_about_her": true,
+  "recent_goal": "configure the bot to write in groups when mentioned",
+  "independence": "resolves problems on his own without help",
+  "coding_humor": "jokes about deep nested if-else statements",
+  "future_plan": "бот размещен на сервере для постоянной работы",
+  "temporary_action": "bot hosted on server",
+  "recent_farewell": "До завтра Роберт",
+  "intends_to_send_image": true,
+  "image_recognition_enabled": true,
+  "wants_to_test_image_recognition": true,
+  "has_graffiti_avatar": true,
+  "avatar_description": "большая буква R сделанная как граффити",
+  "prefers_voice_messages": true,
+  "recent_thought": "переосмысление отношений с друзьями, отказ от выделения 'лучших друзей' в пользу равной важности всех, при этом многие называют его своим лучшим другом",
+  "voice_mode": true,
+  "voice": "Puck",
+  "recent_action": "перенос ценных ресурсов и строительство новой базы в горах",
+  "recent_problem": "image generation failed due to token limit error",
+  "mentions_salma": true,
+  "recent_greeting": "Привет Роберт",
+  "mentions_nastya": true,
+  "asks_to_write_to_someone_else": true,
+  "recent_question_about_messages": "asked if the assistant had written to him before",
+  "recent_utterance_intro": "Кста зацени прикол",
+  "intends_to_share_joke_or_media": true,
+  "reply_mode": "text",
+  "recent_frustration": "none",
+  "recent_utterance": "Ну смотри, у меня пока что есть ее тик ток",
+  "last_message_language": "ukrainian",
+  "admin_access_intent": "wants to configure admin ID to have total control over the bot in group chats",
+  "recent_question": "А кто он?",
+  "message_limit": 1,
+  "unlimited": true,
+  "message_date": "2026-08-10",
+  "message_count": 1,
+  "firstmessage": true,
+  "last_active": "2026-08-30",
+  "ui_lang": "uk",
+  "whois_date": "2026-08-15",
+  "whois_count": 3,
+  "wants_more_content": true,
+  "user_has_female_friend_tiktok": true,
+  "game_situation": "радар на сервере, команда из 3 человек (топ 2), защита от рейда 8 игроков, строительство базы в горах",
+  "team_role": "лучший строитель базы в команде",
+  "video_date": "2026-08-24",
+  "video_count": 1,
+  "saved_media": [
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIDlWqMMX-BfsG4qULobJaLq9xoZBJCAALJImsbURhhSFAgfLUURx6GAQADAgADeQADPQQ",
+      "date": "2026-08-24"
+    },
+    {
+      "type": "video",
+      "value": "BAACAgIAAxkBAAID72qN8EWJd6HMTe7ibfJC4H-A8ImbAAI5qQACIDtwSJONTf4kQsuJPQQ",
+      "date": "2026-08-25"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAID8WqN8YfTeeLL89MgY5UgxSMVAAGU1gACLyRrGyA7cEhzyo9pHpmXcwEAAwIAA3gAAz0E",
+      "date": "2026-08-25"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAID82qN8acSnOHBsQAB_Z1s1FjRIrOGJwACMSRrGyA7cEjvET0XzTTlbgEAAwIAA3gAAz0E",
+      "date": "2026-08-25"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAID82qN8acSnOHBsQAB_Z1s1FjRIrOGJwACMSRrGyA7cEjvET0XzTTlbgEAAwIAA3gAAz0E",
+      "date": "2026-08-25"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIEZWqOluFRWzEWsJERNO6zDTNTj7dzAAIlIWsbIDt4SCQb7rMGZeXlAQADAgADdwADPQQ",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "photo",
+      "value": "AgACAgIAAxkBAAIEZ2qOl5pza88KOV6WdzsuAAGHmvV2cwACJyFrGyA7eEgtPj6fL-P4UQEAAwIAA3cAAz0E",
+      "date": "2026-08-26"
+    }
+  ],
+  "asks_to_insult_dasha_in_russian": true,
+  "scheduled_messages": [
+    {
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "time": "08:05",
+      "text": null,
+      "last_sent": "2026-08-26",
+      "enabled": false,
+      "topic": null
+    },
+    {
+      "days": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "time": "09:00",
+      "text": null,
+      "last_sent": null,
+      "enabled": false
+    },
+    {
+      "mode": "date",
+      "days": [],
+      "start_date": "25-11-2026",
+      "repeat_count": 1,
+      "sent_count": 0,
+      "time": "09:00",
+      "text": null,
+      "topic": null,
+      "enabled": false,
+      "last_sent": null
+    },
+    {
+      "mode": "date",
+      "days": [],
+      "start_date": "32-65-2025",
+      "repeat_count": 1,
+      "sent_count": 0,
+      "time": "09:00",
+      "text": null,
+      "topic": null,
+      "enabled": false,
+      "last_sent": null
+    },
+    {
+      "mode": "weekly",
+      "days": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "start_date": null,
+      "repeat_count": null,
+      "sent_count": 0,
+      "time": "09:00",
+      "text": null,
+      "topic": null,
+      "enabled": false,
+      "last_sent": null
+    },
+    {
+      "mode": "date",
+      "days": [],
+      "start_date": "25-12-2026",
+      "repeat_count": null,
+      "sent_count": 0,
+      "time": "09:00",
+      "text": null,
+      "topic": null,
+      "enabled": false,
+      "last_sent": null
+    }
+  ]
+}

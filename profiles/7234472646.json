@@ -1,0 +1,9 @@
+{
+  "name": "Астра",
+  "destination": "Тюмень",
+  "current_activity": "traveling",
+  "travel_status": "road is going well",
+  "plans": "sleep immediately upon arrival",
+  "past_intent": "planned to travel last year",
+  "unlimited": true
+}
