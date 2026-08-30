@@ -1,6 +1,7 @@
 from core.ai_client import generate_voice_audio, DEFAULT_VOICE
 
 async def send_error(update, e):
+    print(f"[ERROR] {repr(e)}", flush=True)
     error_message = str(e)
     if "429" in error_message or "quota" in error_message.lower() or "RESOURCE_EXHAUSTED" in error_message:
         await update.message.reply_text("⚠️ Error: API quota/tokens exhausted. Please try again later.")
